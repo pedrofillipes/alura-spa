@@ -33,9 +33,7 @@
 
 ## Deploy da Aplicação
 
-![Captura de tela1](https://github.com/pedrofillipes/alura-spa/assets/117683583/fdfa4289-c3e5-40f5-b275-e96f252810ca)
-![Captura de tela2](https://github.com/pedrofillipes/alura-spa/assets/117683583/afc6c278-7946-4bfa-81e4-b8f94811447d)
-![Captura de tela3](https://github.com/pedrofillipes/alura-spa/assets/117683583/ba7e8bf2-e199-442c-a075-fa9a077b5af7)
+![Screenshot](https://github.com/pedrofillipes/alura-spa/assets/117683583/c9a34eb3-89cb-408e-bd9f-b38c91fe4f6e)
 
 ## Desenvolvedor
 
